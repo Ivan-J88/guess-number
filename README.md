@@ -12,3 +12,7 @@ Jednostavan Python projekt u kojem računalo odabire broj, a igrač pokušava po
 - While petlju
 - Rad s korisničkim unosom
 - Osnovnu programsku logiku
+
+Pokretanje
+Program se pokreće pokretanjem datoteke prvi_projekt.py.
+
