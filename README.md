@@ -13,6 +13,7 @@ Jednostavan Python projekt u kojem računalo odabire broj, a igrač pokušava po
 - Rad s korisničkim unosom
 - Osnovnu programsku logiku
 
-Pokretanje
+Pokretanje:
+
 Program se pokreće pokretanjem datoteke prvi_projekt.py.
 
